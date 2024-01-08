@@ -1,8 +1,9 @@
 
 <div align="center">
+    <img src="./images/logo.png" width="100" height="100">
     <h1>hereafter.</h2>
-    A dark and minimalist theme for those who enjoy the color purple and teal.
-    <img src=""/>
+    <p>A dark and minimalist theme for those who enjoy the color purple and teal.</p>
+    <img src="./images/preview.jpeg">
 </div>
 
 ## disclaimer
