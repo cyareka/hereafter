@@ -1,0 +1,21 @@
+{
+  "name": "almont-tofu",
+  "displayName": "almond-tofu",
+  "description": "xiao inspired theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "almond tofu",
+        "uiTheme": "vs-dark",
+        "path": "./themes/almond tofu-color-theme.json"
+      }
+    ]
+  }
+}
