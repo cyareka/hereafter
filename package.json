@@ -1,21 +1,43 @@
 {
-  "name": "almont-tofu",
-  "displayName": "almond-tofu",
-  "description": "xiao inspired theme",
+  "name": "hereafter",
+  "displayName": "hereafter.",
+  "description": "A dark and minimalist theme for those who enjoy the color purple and teal.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.85.0"
   },
+  "author": {
+    "name": "arde"
+  },
   "categories": [
     "Themes"
   ],
+  "pricing": "Free",
   "contributes": {
     "themes": [
       {
-        "label": "almond tofu",
+        "label": "hereafter",
         "uiTheme": "vs-dark",
-        "path": "./themes/almond tofu-color-theme.json"
+        "path": "./themes/hereafter-color-theme.json"
       }
     ]
-  }
+  },
+  "keywords": [
+    "dark",
+    "minimalist",
+    "purple",
+    "teal",
+    "minimal",
+    "genshin",
+    "xiao",
+    "violet",
+    "green",
+    "soft",
+    "pastel"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shea6utter/hereafter.git"
+  },
+  "homepage": "https://github.com/shea6utter/hereafter/blob/main/README.md"
 }
